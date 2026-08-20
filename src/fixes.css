@@ -1,0 +1,2 @@
+/* Locked edges are recreated during timer UI refreshes; they must never replay an entry animation. */
+.locked { animation: none !important; }
