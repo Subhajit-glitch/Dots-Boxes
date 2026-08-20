@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31283103/README.md)
 # DOTS // BOXES
 
 A futuristic, fully playable browser adaptation of the classic **Dots and Boxes** strategy game. Connect adjacent nodes, complete sectors, and outscore your opponent.

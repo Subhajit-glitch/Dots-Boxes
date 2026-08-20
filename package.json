@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "dev": "vite", "build": "tsc && vite build", "preview": "vite preview" },
+  "scripts": { "dev": "vite", "build": "tsc && vite build --base=/Dots-Boxes/", "preview": "vite preview" },
   "devDependencies": { "typescript": "^5.7.3", "vite": "^6.1.0" }
 }
